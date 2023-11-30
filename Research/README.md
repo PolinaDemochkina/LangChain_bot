@@ -11,7 +11,7 @@
 
 **Схема проекта**:
 
-![](https://lh7-us.googleusercontent.com/OcnOGQ5TXUQ7ByzGpWuYC3vfmQUJekuPRkS4MpiD5Cqg5cEJd73NQlwlL6QEqJMnKDrZJtZnkhkyyV1MVcErcEwDi7vLLVSR43-iU_kOrcLmqWiPA9pg-h_WRK6Sx2YgR60XJVgMm-WBxSfSdWbbKHI =200x)
+<img src="https://lh7-us.googleusercontent.com/OcnOGQ5TXUQ7ByzGpWuYC3vfmQUJekuPRkS4MpiD5Cqg5cEJd73NQlwlL6QEqJMnKDrZJtZnkhkyyV1MVcErcEwDi7vLLVSR43-iU_kOrcLmqWiPA9pg-h_WRK6Sx2YgR60XJVgMm-WBxSfSdWbbKHI" width="200">
 
 **Использованные фреймворки**:  
 FAISS  
