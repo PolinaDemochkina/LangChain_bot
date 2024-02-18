@@ -6,7 +6,7 @@
     <td><b style="font-size:30px">Бараненков Сергей</b></td>
     <td><b style="font-size:30px">Демочкина Полина</b></td>
     <td><b style="font-size:30px">Тихобаев Илья</b></td>
-     <td><b style="font-size:30px">Проф. Крылов Владимир</b></td>
+     <td><b style="font-size:30px">Яхтин Леонид</b></td>
  </tr>
  <tr>
     <td>Высшая Школа Экономики</td>
@@ -24,7 +24,7 @@
     <td>ssbaranenkov@edu.hse.ru</td>
     <td>pvdemochkina@edu.hse.ru</td>
     <td>istikhobaev@edu.hse.ru</td>
-    <td>vladimir.v.krylov@gmail.com</td>
+    <td>yakhtin.leonid@yandex.ru</td>
 </tr>
 </table>
 </div>
